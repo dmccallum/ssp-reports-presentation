@@ -1,0 +1,32 @@
+<Schema name="New Schema2">
+  <Cube name="Current Caseload" visible="true" cache="true" enabled="true">
+    <Table name="current_student_fact" schema="public">
+    </Table>
+    <Dimension type="StandardDimension" visible="true" foreignKey="student_id" highCardinality="false" name="Student">
+      <Hierarchy name="Student" visible="true" hasAll="true" allMemberName="All Students" primaryKey="id">
+        <Table name="student" schema="public">
+        </Table>
+        <Level name="Student" visible="true" table="student" column="id" nameColumn="full_name" ordinalColumn="full_name" type="Integer" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="coach_id" highCardinality="false" name="Coach">
+      <Hierarchy name="Coach" visible="true" hasAll="true" allMemberName="All Coaches" primaryKey="id">
+        <Table name="coach" schema="public">
+        </Table>
+        <Level name="Coach" visible="true" table="coach" column="id" nameColumn="full_name" ordinalColumn="full_name" type="Integer" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="program_status_id" highCardinality="false" name="Program Status">
+      <Hierarchy name="Program Status" visible="true" hasAll="true" allMemberName="All Program Statuses">
+        <Table name="program_status" schema="public">
+        </Table>
+        <Level name="Program Status" visible="true" table="program_status" column="id" nameColumn="display_name" ordinalColumn="display_name" type="Integer" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Measure name="Count" column="cnt" datatype="Integer" aggregator="sum" visible="true">
+    </Measure>
+  </Cube>
+</Schema>
