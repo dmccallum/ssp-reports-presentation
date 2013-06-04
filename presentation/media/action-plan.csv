@@ -1,0 +1,546 @@
+student_first_name,student_last_name,student_id,plan_entry_type,created_date,created_by,modified_date,modified_by,due_date,completed_date,task_challenge,task_challenge_referral,goal_name,goal_description
+Barbara,Taylor,btaylor30,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Barbara,Taylor,btaylor30,TASK,,,,,,,NONE,NONE,N/A,N/A
+Barbara,Thompson,bthompson315,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Barbara,Thompson,bthompson315,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Barbara,Thompson,bthompson315,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Barbara,Thompson,bthompson315,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Barbara,Thompson,bthompson315,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Barbara,Thompson,bthompson315,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Charles,Harris,charris223,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Charles,Harris,charris223,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,English as a Second Language,COPE Workshop,N/A,N/A
+Charles,Harris,charris223,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,English as a Second Language,COPE Workshop,N/A,N/A
+Charles,Harris,charris223,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,English as a Second Language,COPE Workshop,N/A,N/A
+Charles,Jackson,cjackson52,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Charles,Jackson,cjackson52,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Charles,Jackson,cjackson52,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Charles,Simth,csimth29,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Simth,csimth29,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Charles,Wilson,cwilson21,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Charles,Wilson,cwilson21,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),Holistic Counseling - Intellectual,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Charles,Wilson,cwilson59,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Chris,Harris,charris317,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Harris,charris317,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Chris,Miller,cmiller114,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Chris,Miller,cmiller114,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Miller,cmiller114,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Miller,cmiller114,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Miller,cmiller114,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Simth,csimth335,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Chris,Simth,csimth335,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Substance Abuse Treatment,N/A,N/A
+Chris,Simth,csimth335,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Substance Abuse Treatment,N/A,N/A
+Chris,Simth,csimth335,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Substance Abuse Treatment,N/A,N/A
+Chris,Simth,csimth335,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Substance Abuse Treatment,N/A,N/A
+Chris,Simth,csimth335,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Substance Abuse Treatment,N/A,N/A
+Chris,Williams,cwilliams314,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Chris,Williams,cwilliams314,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Williams,cwilliams314,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Williams,cwilliams314,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Chris,Williams,cwilliams314,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+David,Martinez,dmartinez319,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Martinez,dmartinez227,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez227,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Martinez,dmartinez319,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+David,Robinson,drobinson111,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Robinson,drobinson111,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Large Font Size,N/A,N/A
+David,Simth,dsimth19,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Simth,dsimth19,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+David,Thomas,dthomas225,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Thomas,dthomas225,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+David,Thomas,dthomas225,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+David,Thomas,dthomas225,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+David,Thomas,dthomas225,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+David,Thomas,dthomas225,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+David,Thompson,dthompson28,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Thompson,dthompson28,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+David,Wilson,dwilson54,GOAL,,,,,,,N/A,N/A,NONE,NONE
+David,Wilson,dwilson54,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+David,Wilson,dwilson54,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+David,Wilson,dwilson54,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+David,Wilson,dwilson54,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Dorothy,Miller,dmiller318,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Miller,dmiller318,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+Dorothy,Robinson,drobinson333,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Dorothy,Robinson,drobinson333,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Admission - Application,N/A,N/A
+Dorothy,Robinson,drobinson333,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Admission - Application,N/A,N/A
+Dorothy,Robinson,drobinson333,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Admission - Application,N/A,N/A
+Dorothy,Thompson,dthompson341,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Dorothy,Thompson,dthompson341,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Financial Aid Award,N/A,N/A
+Elizabeth,Martin,emartin336,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Elizabeth,Martin,emartin336,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Tutorial Services and Labs,N/A,N/A
+Elizabeth,Martin,emartin336,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Tutorial Services and Labs,N/A,N/A
+Elizabeth,Martin,emartin336,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Tutorial Services and Labs,N/A,N/A
+Elizabeth,Martin,emartin336,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Tutorial Services and Labs,N/A,N/A
+Elizabeth,Martin,emartin336,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Tutorial Services and Labs,N/A,N/A
+Elizabeth,Martin,emartin336,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Tutorial Services and Labs,N/A,N/A
+Elizabeth,Martinez,emartinez58,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Martinez,emartinez58,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Elizabeth,Miller,emiller32,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Elizabeth,Miller,emiller32,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Elizabeth,Miller,emiller32,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Elizabeth,Simth,esimth322,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Elizabeth,Simth,esimth322,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Concentration (Poor Concentration),Community Referral,N/A,N/A
+Elizabeth,Simth,esimth322,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Concentration (Poor Concentration),Community Referral,N/A,N/A
+Elizabeth,Thompson,ethompson326,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Elizabeth,Thompson,ethompson326,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+Elizabeth,Thompson,ethompson326,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+Elizabeth,Thompson,ethompson326,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+Elizabeth,Thompson,ethompson326,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+Elizabeth,Thompson,ethompson326,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+Elizabeth,Thompson,ethompson326,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+James,Anderson,janderson218,GOAL,,,,,,,N/A,N/A,NONE,NONE
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Anderson,janderson218,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Emotions, Moods and Stress,Family Services,N/A,N/A
+James,Brown,jbrown321,GOAL,,,,,,,N/A,N/A,NONE,NONE
+James,Brown,jbrown321,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Social Support (Lack of Support),Withdraw date,N/A,N/A
+James,Montana,jmontana21,GOAL,2013-06-03 18:38:06.027,Richard Thompson,2013-06-03 18:38:06.027,Richard  Thompson,,,N/A,N/A,Graduate College,Graduate and get honors and stuff.
+James,Montana,jmontana21,TASK,2013-06-03 18:39:15.322,Richard Thompson,2013-06-03 18:39:15.322,Richard  Thompson,2013-06-15,,Grades,Study Skills Website,N/A,N/A
+James,Montana,jmontana21,TASK,2013-06-03 18:39:32.094,Richard Thompson,2013-06-03 18:39:32.094,Richard  Thompson,2013-06-25,,Maps/Directions,Computer Access,N/A,N/A
+James,Montana,jmontana21,TASK,2013-06-03 18:30:34.215,Richard Thompson,2013-06-03 18:30:34.215,Richard  Thompson,,,NONE,NONE,N/A,N/A
+James,Taylor,jtaylor31,GOAL,,,,,,,N/A,N/A,NONE,NONE
+James,Taylor,jtaylor31,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),Holistic Counseling - Intellectual,N/A,N/A
+Jennifer,Davis,jdavis24,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Davis,jdavis24,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Davis,jdavis24,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Davis,jdavis24,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Davis,jdavis24,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Harris,jharris224,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Harris,jharris224,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Jennifer,Harris,jharris224,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Jennifer,Harris,jharris224,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Jennifer,Harris,jharris224,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Jennifer,Jones,jjones37,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Jones,jjones37,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Jennifer,Martin,jmartin34,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Martin,jmartin222,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Martin,jmartin34,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Martin,jmartin34,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Martin,jmartin34,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Martin,jmartin34,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Jennifer,Martin,jmartin222,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Concentration (Poor Concentration),Community Referral,N/A,N/A
+Jennifer,Martin,jmartin222,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Concentration (Poor Concentration),Community Referral,N/A,N/A
+Jennifer,Moore,jmoore36,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Moore,jmoore36,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Jennifer,Moore,jmoore36,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Jennifer,Moore,jmoore36,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Jennifer,Moore,jmoore36,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Jennifer,Moore,jmoore36,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Jennifer,Moore,jmoore36,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Jennifer,Thompson,jthompson33,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Thompson,jthompson216,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,Thompson,jthompson216,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Jennifer,Thompson,jthompson216,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Jennifer,Thompson,jthompson216,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Jennifer,Thompson,jthompson216,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Jennifer,Thompson,jthompson216,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Jennifer,Thompson,jthompson216,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Jennifer,Thompson,jthompson33,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Jennifer,Thompson,jthompson33,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Jennifer,Thompson,jthompson33,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Jennifer,White,jwhite327,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+Jennifer,White,jwhite327,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Grades,Handouts,N/A,N/A
+John,Garcia,jgarcia35,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,Garcia,jgarcia35,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Garcia,jgarcia35,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Garcia,jgarcia35,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Garcia,jgarcia35,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Garcia,jgarcia35,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Jackson,jjackson332,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,Jackson,jjackson332,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Class - Grief & Loss,N/A,N/A
+John,Jackson,jjackson332,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Class - Grief & Loss,N/A,N/A
+John,Johnson,jjohnson15,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,Johnson,jjohnson15,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Johnson,jjohnson15,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Johnson,jjohnson15,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Johnson,jjohnson15,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Johnson,jjohnson15,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+John,Robinson,jrobinson212,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,Robinson,jrobinson212,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+John,Robinson,jrobinson212,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+John,Taylor,jtaylor57,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,Taylor,jtaylor57,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+John,White,jwhite226,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,White,jwhite226,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+John,White,jwhite226,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+John,White,jwhite226,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+John,White,jwhite226,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+John,White,jwhite226,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+John,White,jwhite226,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Other,Alcoholics-anonymous,N/A,N/A
+John,Wilson,jwilson219,GOAL,,,,,,,N/A,N/A,NONE,NONE
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+John,Wilson,jwilson219,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Tired/Fatigue,Financial Aid Office Application,N/A,N/A
+Joseph,Anderson,janderson56,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Anderson,janderson56,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Joseph,Anderson,janderson56,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Joseph,Anderson,janderson56,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Joseph,Anderson,janderson56,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Joseph,Anderson,janderson56,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Joseph,Anderson,janderson56,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Joseph,Brown,jbrown312,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Brown,jbrown312,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+Joseph,Brown,jbrown312,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+Joseph,Jackson,jjackson10,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Jackson,jjackson10,TASK,,,,,,,NONE,NONE,N/A,N/A
+Joseph,Johnson,jjohnson215,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Johnson,jjohnson215,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Joseph,Johnson,jjohnson215,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Joseph,Johnson,jjohnson215,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Joseph,Johnson,jjohnson215,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Joseph,Johnson,jjohnson215,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,FAFSA & Student Guide - Spanish,N/A,N/A
+Joseph,Robinson,jrobinson38,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Robinson,jrobinson38,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Joseph,Williams,jwilliams211,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Williams,jwilliams211,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Large Font Size,N/A,N/A
+Joseph,Wilson,jwilson325,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Joseph,Wilson,jwilson325,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+Joseph,Wilson,jwilson325,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+Joseph,Wilson,jwilson325,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+Joseph,Wilson,jwilson325,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+Joseph,Wilson,jwilson325,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Computer/Email,CrisisCare,N/A,N/A
+Linda,Anderson,landerson313,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Linda,Anderson,landerson313,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Linda,Anderson,landerson313,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Linda,Anderson,landerson313,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Linda,Brown,lbrown228,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Brown,lbrown228,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,Thomas,lthomas328,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Child or Adult Care,Open Learning Labs,N/A,N/A
+Linda,White,lwhite112,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Linda,White,lwhite112,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+Linda,White,lwhite112,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+Margaret,Anderson,manderson324,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Margaret,Anderson,manderson324,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Margaret,Anderson,manderson324,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Margaret,Anderson,manderson324,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Margaret,Anderson,manderson324,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Test Anxiety,Improvement in Class Work,N/A,N/A
+Margaret,Davis,mdavis221,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Margaret,Davis,mdavis25,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Margaret,Davis,mdavis221,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Social Support (Lack of Support),Withdraw date,N/A,N/A
+Margaret,Davis,mdavis25,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Margaret,Davis,mdavis25,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Margaret,Davis,mdavis25,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Margaret,Davis,mdavis25,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Margaret,Davis,mdavis25,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Margaret,Robinson,mrobinson113,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Margaret,Robinson,mrobinson113,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Margaret,Robinson,mrobinson113,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Margaret,Robinson,mrobinson113,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Margaret,Simth,msimth229,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Simth,msimth229,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Margaret,Williams,mwilliams213,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Margaret,Williams,mwilliams213,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Margaret,Williams,mwilliams213,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Margaret,Williams,mwilliams213,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Maria,Jones,mjones323,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Maria,Jones,mjones323,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,English as a Second Language,COPE Workshop,N/A,N/A
+Maria,Jones,mjones323,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,English as a Second Language,COPE Workshop,N/A,N/A
+Maria,Jones,mjones323,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,English as a Second Language,COPE Workshop,N/A,N/A
+Maria,Williams,mwilliams214,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Maria,Williams,mwilliams214,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Maria,Williams,mwilliams214,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Maria,Williams,mwilliams214,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Maria,Williams,mwilliams214,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Mary,Jackson,mjackson39,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jackson,mjackson39,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Classes,N/A,N/A
+Mary,Jones,mjones331,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Mary,Jones,mjones331,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Counselor - Liberal Arts,N/A,N/A
+Michael,Anderson,manderson16,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Anderson,manderson16,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Michael,Anderson,manderson16,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Michael,Anderson,manderson16,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Michael,Anderson,manderson16,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Michael,Anderson,manderson16,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Michael,Anderson,manderson16,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Michael,Brown,mbrown51,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Brown,mbrown511,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Brown,mbrown51,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),Holistic Counseling - Intellectual,N/A,N/A
+Michael,Brown,mbrown511,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Large Font Size,N/A,N/A
+Michael,Jackson,mjackson17,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Jackson,mjackson344,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Jackson,mjackson344,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Academic Petition,N/A,N/A
+Michael,Jackson,mjackson344,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Academic Petition,N/A,N/A
+Michael,Jackson,mjackson344,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Academic Petition,N/A,N/A
+Michael,Jackson,mjackson344,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Academic Petition,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Jackson,mjackson17,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Michael,Robinson,mrobinson217,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Robinson,mrobinson217,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Study Resources,Financial Aid Deadlines,N/A,N/A
+Michael,Simth,msimth338,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Simth,msimth338,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Relationship Issues,Tartan Card - Transportation,N/A,N/A
+Michael,Wilson,mwilson12,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Michael,Wilson,mwilson12,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Michael,Wilson,mwilson12,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+New Student,Test,0000000,GOAL,,,,,,,N/A,N/A,NONE,NONE
+New Student,Test,0000000,TASK,,,,,,,NONE,NONE,N/A,N/A
+Patricia,Davis,pdavis13,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Patricia,Davis,pdavis13,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Patricia,Davis,pdavis13,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Patricia,Davis,pdavis13,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Patricia,Moore,pmoore55,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Patricia,Moore,pmoore329,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore329,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),TYPE,N/A,N/A
+Patricia,Moore,pmoore55,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Patricia,Moore,pmoore55,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Patricia,Moore,pmoore55,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Patricia,Moore,pmoore55,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Patricia,Moore,pmoore55,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Transportation,Student Success Course,N/A,N/A
+Patricia,Robinson,probinson343,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Patricia,Robinson,probinson343,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,$100 Pell Transfer to Tartan Card,N/A,N/A
+Patricia,Robinson,probinson343,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,$100 Pell Transfer to Tartan Card,N/A,N/A
+Patricia,Robinson,probinson343,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Motivation/Attitude,$100 Pell Transfer to Tartan Card,N/A,N/A
+Patricia,Taylor,ptaylor14,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Patricia,Taylor,ptaylor14,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Patricia,Taylor,ptaylor14,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Patricia,Taylor,ptaylor14,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+Patricia,Taylor,ptaylor14,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Classroom Issues,Campus Organization,N/A,N/A
+QA,TestStudent1,teststudent1,GOAL,,,,,,,N/A,N/A,NONE,NONE
+QA,TestStudent1,teststudent1,TASK,,,,,,,NONE,NONE,N/A,N/A
+Richard,Miller,rmiller342,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Richard,Miller,rmiller342,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Personal Interest Career Development Transient or HS Student,N/A,N/A
+Richard,Miller,rmiller342,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Personal Interest Career Development Transient or HS Student,N/A,N/A
+Richard,White,rwhite23,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Richard,White,rwhite23,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Richard,White,rwhite23,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Richard,White,rwhite23,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Robert,Davis,rdavis50,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Davis,rdavis50,TASK,,,,,,,NONE,NONE,N/A,N/A
+Robert,Jackson,rjackson339,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jackson,rjackson339,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Fee Bill,N/A,N/A
+Robert,Jones,rjones27,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Jones,rjones26,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Jones,rjones26,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Robert,Jones,rjones26,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Robert,Jones,rjones26,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Robert,Jones,rjones26,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Robert,Jones,rjones26,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Robert,Jones,rjones26,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Time Management,Student Judicial Affairs,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Jones,rjones27,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Undecided Major or Career Field,Orientation-IT,N/A,N/A
+Robert,Martin,rmartin512,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Martin,rmartin512,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+Robert,Martin,rmartin512,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Cultural Awareness Issues,Day-VEST,N/A,N/A
+Robert,Martinez,rmartinez11,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Martinez,rmartinez11,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Goals/Career Choices (Unclear),Holistic Counseling - Intellectual,N/A,N/A
+Robert,Robinson,rrobinson18,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Robinson,rrobinson316,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson18,TASK,2012-08-20 00:00:00,Chris Garcia,2012-08-20 00:00:00,Chris  Garcia,2012-08-20,2012-08-20 00:00:00,Alcohol and/or Substance Abuse,Courses and Class Schedule,N/A,N/A
+Robert,Robinson,rrobinson316,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Robert,Robinson,rrobinson316,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Robert,Robinson,rrobinson316,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Robert,Robinson,rrobinson316,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Robert,Robinson,rrobinson316,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Robert,Robinson,rrobinson316,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Finances - Education,Resource Room,N/A,N/A
+Robert,Taylor,rtaylor514,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Robert,Taylor,rtaylor514,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Robert,Taylor,rtaylor514,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Robert,Taylor,rtaylor514,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Robert,Taylor,rtaylor514,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Maps/Directions,Payment,N/A,N/A
+Susan,Jackson,sjackson334,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Susan,Jackson,sjackson334,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Individualizing a Degree Program,N/A,N/A
+Susan,Jackson,sjackson334,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Individualizing a Degree Program,N/A,N/A
+Susan,Jackson,sjackson334,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Individualizing a Degree Program,N/A,N/A
+Susan,Jackson,sjackson334,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Time Management,Individualizing a Degree Program,N/A,N/A
+Susan,Martin,smartin513,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Susan,Martin,smartin513,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Susan,Martin,smartin513,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Susan,Martin,smartin513,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Finances - Personal,Minority Peer Group,N/A,N/A
+Susan,Thomas,sthomas20,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Susan,Thomas,sthomas20,TASK,,,,,,,NONE,NONE,N/A,N/A
+Susan,White,swhite53,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Susan,White,swhite53,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Susan,White,swhite53,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Susan,White,swhite53,TASK,2012-08-20 00:00:00,Margaret Taylor,2012-08-20 00:00:00,Margaret  Taylor,2012-08-20,2012-08-20 00:00:00,Housing/Shelter,Improve English Skills,N/A,N/A
+Thomas,Brown,tbrown22,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Thomas,Brown,tbrown22,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Thomas,Brown,tbrown22,TASK,2012-08-20 00:00:00,Richard Wilson,2012-08-20 00:00:00,Richard  Wilson,2012-08-20,2012-08-20 00:00:00,Grief and Loss,$Instructor,N/A,N/A
+Thomas,Johnson,tjohnson337,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Johnson,tjohnson337,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Physical Health,Part-time Ohio College Opportunity Grant (OCOG),N/A,N/A
+Thomas,Martin,tmartin311,GOAL,,,,,,,N/A,N/A,NONE,NONE
+Thomas,Martin,tmartin311,TASK,2012-08-20 00:00:00,Richard Thompson,2012-08-20 00:00:00,Richard  Thompson,2012-08-20,2012-08-20 00:00:00,Steps to Begin Sinclair,Large Font Size,N/A,N/A
+(544 rows)
